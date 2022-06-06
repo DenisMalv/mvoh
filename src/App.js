@@ -10,7 +10,7 @@ function App() {
     <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<HomePageView />} />
-        <Route path="add" element={<AddContactView />} />
+        <Route path="/add" element={<AddContactView />} />
       </Route>
     </Routes>
   );
