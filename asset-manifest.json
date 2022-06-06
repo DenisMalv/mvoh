@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mvoh/static/css/main.43dd5692.css",
+    "main.js": "/mvoh/static/js/main.8cfdcde5.js",
+    "index.html": "/mvoh/index.html",
+    "main.43dd5692.css.map": "/mvoh/static/css/main.43dd5692.css.map",
+    "main.8cfdcde5.js.map": "/mvoh/static/js/main.8cfdcde5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43dd5692.css",
+    "static/js/main.8cfdcde5.js"
+  ]
+}
